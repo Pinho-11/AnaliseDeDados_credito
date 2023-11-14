@@ -1,1 +1,1 @@
-# Análise exploratória de dados da Loggi
+# Análise exploratória de dados de credito bancário
